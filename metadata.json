@@ -1,0 +1,7 @@
+{
+  "name": "Mystic Gestures Tarot",
+  "description": "A visually immersive Tarot experience controlled by hand gestures, featuring real-time particle effects and AI interpretation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
